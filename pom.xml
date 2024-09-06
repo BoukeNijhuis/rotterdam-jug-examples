@@ -69,7 +69,7 @@
                 <version>1.0-SNAPSHOT</version>
                 <configuration>
                     <testFilePath>
-                        /Users/boukenijhuis/git/rotterdam-jug-examples/src/test/java/org/example/endpoint/EndpointAgeTest.java
+                        /Users/boukenijhuis/git/rotterdam-jug-examples/src/test/java/org/example/endpoint/EndpointTest.java
                     </testFilePath>
 
 <!--                    <family>anthropic</family>-->
